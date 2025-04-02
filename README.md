@@ -28,6 +28,3 @@ Mostrar los datos de los contactos guardados en el DOM
 Crea un botón para borrar todos los contactos guardados en Local Storage
 
 
-Entregables
-
-Subir el ejercicio a un repositorio en github
