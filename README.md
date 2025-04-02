@@ -1,9 +1,6 @@
 # demo-localstorage
 
 
-Introducción
-JavaScript es un lenguaje de programación interpretado(El navegador lee directamente el código, sin necesidad de terceros) de alto nivel. Es el lenguaje de programación encargado de dotar de mayor interactividad y dinamismo a las páginas web. 
-
 
 
 ¿Cuáles son los principales objetivos de estos ejercicios?
